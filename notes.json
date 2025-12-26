@@ -7,7 +7,15 @@
       "title": "Nhã",
       "content": "",
       "type": "note",
-      "children": []
+      "children": [
+        {
+          "id": "1766729784026",
+          "title": "Nhã đẹp gái",
+          "content": "",
+          "type": "folder",
+          "children": []
+        }
+      ]
     }
   ]
 }
