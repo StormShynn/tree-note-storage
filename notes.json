@@ -1,13 +1,5 @@
 {
   "id": "root",
   "title": "My Notes",
-  "children": [
-    {
-      "id": "1766725457412",
-      "title": "123",
-      "content": "123",
-      "type": "note",
-      "children": []
-    }
-  ]
+  "children": []
 }
