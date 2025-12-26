@@ -14,7 +14,15 @@
       "title": "SO",
       "content": "",
       "type": "note",
-      "children": []
+      "children": [
+        {
+          "id": "1766731996322",
+          "title": "SO1",
+          "content": "",
+          "type": "folder",
+          "children": []
+        }
+      ]
     }
   ]
 }
