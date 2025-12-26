@@ -7,7 +7,15 @@
       "title": "test",
       "content": "",
       "type": "note",
-      "children": []
+      "children": [
+        {
+          "id": "1766732584405",
+          "title": "test1",
+          "content": "",
+          "type": "note",
+          "children": []
+        }
+      ]
     }
   ]
 }
