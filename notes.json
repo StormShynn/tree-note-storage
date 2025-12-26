@@ -13,7 +13,15 @@
           "title": "test1",
           "content": "",
           "type": "note",
-          "children": []
+          "children": [
+            {
+              "id": "1766733224015",
+              "title": "test1",
+              "content": "",
+              "type": "folder",
+              "children": []
+            }
+          ]
         },
         {
           "id": "1766733130660",
