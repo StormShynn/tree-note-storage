@@ -3,19 +3,11 @@
   "title": "My Notes",
   "children": [
     {
-      "id": "1766732492684",
-      "title": "test",
+      "id": "1766733085124",
+      "title": "Test01",
       "content": "",
       "type": "note",
-      "children": [
-        {
-          "id": "1766732584405",
-          "title": "test1",
-          "content": "",
-          "type": "note",
-          "children": []
-        }
-      ]
+      "children": []
     }
   ]
 }
